@@ -91,4 +91,4 @@ ALTER TABLE usuarios MODIFY telefono_contacto VARCHAR(15) UNIQUE;
 ALTER TABLE contactos ADD FOREIGN KEY(telefono) REFERENCES usuarios(telefono_contacto);
 DESCRIBE contactos;
 
--- Repositorio de github  https://github.com/KattaMP/ProyectoJavaFullStack/tree/main
+-- Repositorio de github  https://github.com/Thony091/repositorioSql
