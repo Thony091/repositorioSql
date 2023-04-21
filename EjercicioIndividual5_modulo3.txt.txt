@@ -1,0 +1,20 @@
+EJERCICIO INDIVIDUAL ABPRO 5
+MODULO: Fundamentos de Bases de datos Relacionales 
+TEMA: DDL
+ALUMNO: ANTHONY GREGORY FLORES RAMOS
+
+- ¿Qué es DDL?
+
+Data Definition Language (lenguaje de definicion de datos)es el que se encarga de la 
+modificación de la estructura de los objetos de la base de datos. Incluye órdenes
+para modificar, borrar o definir las tablas en las que se almacenan las bases de datos.
+Existen cuatro operaciones básicas:
+CREATE, ALTER, DROP y TRUNCATE.
+
+- ¿Cuándo se puede anular una acción DDL?
+
+
+
+- ¿Cuando se utilizan comillas dobles en la creación de una tabla?
+
+Cuando se le quiere dar un valor por default a un atributo de tipo cadena
